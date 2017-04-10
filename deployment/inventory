@@ -1,0 +1,2 @@
+[p5]
+p5 ansible_ssh_host=198.199.76.219 ansible_ssh_user=root

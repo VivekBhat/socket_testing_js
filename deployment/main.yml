@@ -1,0 +1,9 @@
+---
+- name: Deploying p5  
+  hosts: p5
+  become: yes
+  roles: 
+    - node
+    - nginx
+    - deployment
+    
